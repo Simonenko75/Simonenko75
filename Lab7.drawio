@@ -1,171 +1,171 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T08:03:00.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="qGV_OXEKlyp3aoWweR-Z" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-10T08:04:14.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="aa5mxpV_mcIrVZYNXXEL" version="14.6.11" type="github">
   <diagram id="fFyIPQaU8YAGEDK_VNBK" name="Page-1">
-    <mxGraphModel dx="3400" dy="2539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="3400" dy="1370" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="d6BkvXBy3w9U_gfQ7I9c-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Система учета комп. техники в организации&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Наименование: String = Система учета&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;компьютерной техники&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Разработчик: String = Null&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Пользователи: String =&amp;nbsp; Руководитель отдела,&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;бухгалтер, работник склада, работник отдела&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Архитектура: String = Клиент-сервер&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Выводит_на_экран_список_техники(): String&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- Предостовляет_быстрый_доступ_к_данным(): String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Поиск_технику_по_ коду(value: int): String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Выводит_список_технии_на_складе():String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Вывод информации о работниках():String&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="636" y="344" width="310" height="206" as="geometry" />
+          <mxGeometry x="664" y="632" width="310" height="206" as="geometry" />
         </mxCell>
         <mxCell id="d6BkvXBy3w9U_gfQ7I9c-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Руководитель&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Имя: String = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Фамилия: String = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Отчество: String = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;- Номер_телефон: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Авторизация_в_систему(почта, пароль:&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;string): Void&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;- Обращение_к_техподдержке(): Srting&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;# Просмотр_техники_в_организации(): String&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="181" y="361" width="258" height="172" as="geometry" />
+          <mxGeometry x="209" y="649" width="258" height="172" as="geometry" />
         </mxCell>
         <mxCell id="d6BkvXBy3w9U_gfQ7I9c-14" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Сотрудники&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Имя: String = Null&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Фамилия: String = Null&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Отчество: String = Null&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;- Номер_телефон: int = Null&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Код_техники: int = Null&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Авторизация_в_систему(value:&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;string): Void&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;# Просмотр_списка(): String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- Обращение к техподдержке():&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;String&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="692" y="-269" width="198" height="193" as="geometry" />
+          <mxGeometry x="720" y="19" width="198" height="193" as="geometry" />
         </mxCell>
         <mxCell id="d6BkvXBy3w9U_gfQ7I9c-15" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Программист&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Номер отдела: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Должность: String = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;- Заполнение_БД(): Void&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- Изменение_данных_в_БД(): Void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ сохранение_данных_в_БД(): Void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1286" y="43" width="212" height="122" as="geometry" />
+          <mxGeometry x="1314" y="331" width="212" height="122" as="geometry" />
         </mxCell>
         <mxCell id="d6BkvXBy3w9U_gfQ7I9c-16" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Главный бухгалтер&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Номер_отдела_бухгалтерии: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Номер_кабинета: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;- Проверяет_наличие_данных_в_БД (): String&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Начисляет_зарплату(value string): Void&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="873" y="49" width="282" height="108" as="geometry" />
+          <mxGeometry x="901" y="337" width="282" height="108" as="geometry" />
         </mxCell>
         <mxCell id="d6BkvXBy3w9U_gfQ7I9c-17" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Бухгалтер&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Номер_кабинета: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Код_бухгалтерии: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Распичатывает_список(): String&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;- Составляет_тарифы_на_закупку_&lt;/font&gt;&lt;/font&gt;&lt;span&gt;техники(value:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;string): Void&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="471" y="51" width="282" height="126" as="geometry" />
+          <mxGeometry x="499" y="339" width="282" height="126" as="geometry" />
         </mxCell>
         <mxCell id="d6BkvXBy3w9U_gfQ7I9c-18" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Работник скалада&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Номер_склада: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Код_работника: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Заполнение_данных(): Void&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Учет_техники_на_складе(): Void&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="106" y="49" width="205" height="108" as="geometry" />
+          <mxGeometry x="134" y="337" width="205" height="108" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Сервер БД&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Номер_сервера: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Название_БД: String = Null&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Проверяет_права_доступа(value: string):&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;String&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;# Заносит_данные_в_БД(): Void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;# Сохраняет_изменения_данных(): String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Поиск_пустых_значений(value: string):&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;String&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="364" width="245" height="162" as="geometry" />
+          <mxGeometry x="1173" y="652" width="245" height="162" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-12" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Техподдержка&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Номер_команды_программистов: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Получает_информацию_о_сбое(value: string): Void&lt;br&gt;- Отвечает_онлайн_24/7(): String&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;# Устроняют_сбои_системы():String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;# Добавляют_новые_функции(): String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Уведомляют_о _завершении_технических_работ(): String&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="336" y="718" width="338" height="137" as="geometry" />
+          <mxGeometry x="364" y="1006" width="338" height="137" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Форма авторизации&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Поле_выбора_гугл_акаунта: String = system@gmail.com&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;- Поле_ввода_пароля: String = ***********&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Проверяет_правильность_ввода_пароля(value:&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&amp;nbsp;string): String&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;- Предоставляет_доступ_к_системе(): String&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;- Передает_данные_на_сервер(value: string): Void&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="927" y="719" width="332" height="136" as="geometry" />
+          <mxGeometry x="955" y="1007" width="332" height="136" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-16" value="" style="endArrow=block;endFill=0;endSize=12;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6BkvXBy3w9U_gfQ7I9c-18" target="d6BkvXBy3w9U_gfQ7I9c-14">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="547" as="sourcePoint" />
-            <mxPoint x="659" y="-56" as="targetPoint" />
+            <mxPoint x="575" y="288" as="sourcePoint" />
+            <mxPoint x="687" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-17" value="" style="endArrow=block;endFill=0;endSize=12;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d6BkvXBy3w9U_gfQ7I9c-16" target="d6BkvXBy3w9U_gfQ7I9c-14">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1108" y="52" as="sourcePoint" />
-            <mxPoint x="571.5" y="-84" as="targetPoint" />
+            <mxPoint x="1136" y="340" as="sourcePoint" />
+            <mxPoint x="599.5" y="204" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-18" value="" style="endArrow=block;endFill=0;endSize=12;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6BkvXBy3w9U_gfQ7I9c-17" target="d6BkvXBy3w9U_gfQ7I9c-14">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="432.5" y="35" as="sourcePoint" />
-            <mxPoint x="650" y="-73" as="targetPoint" />
+            <mxPoint x="460.5" y="323" as="sourcePoint" />
+            <mxPoint x="678" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6BkvXBy3w9U_gfQ7I9c-18" target="d6BkvXBy3w9U_gfQ7I9c-5">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="563" y="309" as="sourcePoint" />
-            <mxPoint x="723" y="309" as="targetPoint" />
+            <mxPoint x="591" y="597" as="sourcePoint" />
+            <mxPoint x="751" y="597" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="311" y="344" />
+              <mxPoint x="339" y="632" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6BkvXBy3w9U_gfQ7I9c-16" target="d6BkvXBy3w9U_gfQ7I9c-5">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="930" y="169" as="sourcePoint" />
-            <mxPoint x="1162.5" y="356" as="targetPoint" />
+            <mxPoint x="958" y="457" as="sourcePoint" />
+            <mxPoint x="1190.5" y="644" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-21" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6BkvXBy3w9U_gfQ7I9c-17" target="d6BkvXBy3w9U_gfQ7I9c-5">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="588" y="148" as="sourcePoint" />
-            <mxPoint x="820.5" y="335" as="targetPoint" />
+            <mxPoint x="616" y="436" as="sourcePoint" />
+            <mxPoint x="848.5" y="623" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-22" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6BkvXBy3w9U_gfQ7I9c-13" target="d6BkvXBy3w9U_gfQ7I9c-5">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="395" y="224" as="sourcePoint" />
-            <mxPoint x="589.5" y="408" as="targetPoint" />
+            <mxPoint x="423" y="512" as="sourcePoint" />
+            <mxPoint x="617.5" y="696" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjCUWYbZBNFAm0apmLuJ-11" target="d6BkvXBy3w9U_gfQ7I9c-5">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="997" y="481" as="sourcePoint" />
-            <mxPoint x="1219" y="486.5" as="targetPoint" />
+            <mxPoint x="1025" y="769" as="sourcePoint" />
+            <mxPoint x="1247" y="774.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-24" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZjCUWYbZBNFAm0apmLuJ-12" target="d6BkvXBy3w9U_gfQ7I9c-5">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="583" y="609" as="sourcePoint" />
-            <mxPoint x="743" y="609" as="targetPoint" />
+            <mxPoint x="611" y="897" as="sourcePoint" />
+            <mxPoint x="771" y="897" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="505" y="499" />
+              <mxPoint x="533" y="787" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-25" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;fontColor=#FFFF00;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#FFFF00;" edge="1" parent="1" source="ZjCUWYbZBNFAm0apmLuJ-13" target="d6BkvXBy3w9U_gfQ7I9c-5">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1005" y="707.5" as="sourcePoint" />
-            <mxPoint x="1136" y="488" as="targetPoint" />
+            <mxPoint x="1033" y="995.5" as="sourcePoint" />
+            <mxPoint x="1164" y="776" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1093" y="499" />
+              <mxPoint x="1121" y="787" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-27" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="181" y="170" width="30" height="18" as="geometry" />
+          <mxGeometry x="209" y="458" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-28" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="571" y="188" width="30" height="18" as="geometry" />
+          <mxGeometry x="599" y="476" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-29" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="1003" y="174" width="30" height="18" as="geometry" />
+          <mxGeometry x="1031" y="462" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-30" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="716" y="318" width="28" height="18" as="geometry" />
+          <mxGeometry x="744" y="606" width="28" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-31" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="834" y="318" width="30" height="18" as="geometry" />
+          <mxGeometry x="862" y="606" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-32" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="595" y="318" width="28" height="18" as="geometry" />
+          <mxGeometry x="623" y="606" width="28" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-33" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="592" y="374" width="28" height="18" as="geometry" />
+          <mxGeometry x="620" y="662" width="28" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-34" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="966" y="371" width="30" height="18" as="geometry" />
+          <mxGeometry x="994" y="659" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-35" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="966" y="476" width="30" height="18" as="geometry" />
+          <mxGeometry x="994" y="764" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-36" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="588" y="468" width="30" height="18" as="geometry" />
+          <mxGeometry x="616" y="756" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-37" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="507" y="696" width="30" height="18" as="geometry" />
+          <mxGeometry x="535" y="984" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-38" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="1099" y="696" width="30" height="18" as="geometry" />
+          <mxGeometry x="1127" y="984" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-39" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="383" width="30" height="18" as="geometry" />
+          <mxGeometry x="1143" y="671" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-40" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="441" y="383" width="30" height="18" as="geometry" />
+          <mxGeometry x="469" y="671" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-41" value="" style="endArrow=block;endFill=0;endSize=12;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d6BkvXBy3w9U_gfQ7I9c-15" target="d6BkvXBy3w9U_gfQ7I9c-14">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1164" y="36" as="sourcePoint" />
-            <mxPoint x="1115" y="-106" as="targetPoint" />
+            <mxPoint x="1192" y="324" as="sourcePoint" />
+            <mxPoint x="1143" y="182" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-42" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6BkvXBy3w9U_gfQ7I9c-15" target="d6BkvXBy3w9U_gfQ7I9c-5">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1251.5" y="182" as="sourcePoint" />
-            <mxPoint x="1118" y="361" as="targetPoint" />
+            <mxPoint x="1279.5" y="470" as="sourcePoint" />
+            <mxPoint x="1146" y="649" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1286" y="339" />
+              <mxPoint x="1314" y="627" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-43" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="1339" y="174" width="30" height="18" as="geometry" />
+          <mxGeometry x="1367" y="462" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-44" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="954" y="318" width="30" height="18" as="geometry" />
+          <mxGeometry x="982" y="606" width="30" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
