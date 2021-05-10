@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T08:01:02.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="zyvwX1CRf_OQTbvqmj5-" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-10T08:03:00.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="qGV_OXEKlyp3aoWweR-Z" version="14.6.11" type="github">
   <diagram id="fFyIPQaU8YAGEDK_VNBK" name="Page-1">
-    <mxGraphModel dx="1943" dy="1952" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="3400" dy="2539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,16 +14,16 @@
           <mxGeometry x="692" y="-269" width="198" height="193" as="geometry" />
         </mxCell>
         <mxCell id="d6BkvXBy3w9U_gfQ7I9c-15" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Программист&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Номер отдела: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Должность: String = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;- Заполнение_БД(): Void&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- Изменение_данных_в_БД(): Void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ сохранение_данных_в_БД(): Void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1188" y="49" width="212" height="122" as="geometry" />
+          <mxGeometry x="1286" y="43" width="212" height="122" as="geometry" />
         </mxCell>
         <mxCell id="d6BkvXBy3w9U_gfQ7I9c-16" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Главный бухгалтер&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Номер_отдела_бухгалтерии: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Номер_кабинета: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;- Проверяет_наличие_данных_в_БД (): String&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Начисляет_зарплату(value string): Void&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="861" y="57" width="282" height="108" as="geometry" />
+          <mxGeometry x="873" y="49" width="282" height="108" as="geometry" />
         </mxCell>
         <mxCell id="d6BkvXBy3w9U_gfQ7I9c-17" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Бухгалтер&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Номер_кабинета: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Код_бухгалтерии: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Распичатывает_список(): String&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;- Составляет_тарифы_на_закупку_&lt;/font&gt;&lt;/font&gt;&lt;span&gt;техники(value:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;string): Void&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="503" y="57" width="282" height="126" as="geometry" />
+          <mxGeometry x="471" y="51" width="282" height="126" as="geometry" />
         </mxCell>
         <mxCell id="d6BkvXBy3w9U_gfQ7I9c-18" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Работник скалада&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Номер_склада: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Код_работника: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Заполнение_данных(): Void&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Учет_техники_на_складе(): Void&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="214" y="49" width="205" height="108" as="geometry" />
+          <mxGeometry x="106" y="49" width="205" height="108" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Сервер БД&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Номер_сервера: int = Null&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Название_БД: String = Null&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;+ Проверяет_права_доступа(value: string):&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;String&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;# Заносит_данные_в_БД(): Void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;# Сохраняет_изменения_данных(): String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Поиск_пустых_значений(value: string):&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;String&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;fillColor=#0F08D0;fontColor=#FFFF00;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1145" y="364" width="245" height="162" as="geometry" />
@@ -52,12 +52,12 @@
             <mxPoint x="650" y="-73" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZjCUWYbZBNFAm0apmLuJ-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6BkvXBy3w9U_gfQ7I9c-18" target="d6BkvXBy3w9U_gfQ7I9c-5">
+        <mxCell id="ZjCUWYbZBNFAm0apmLuJ-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6BkvXBy3w9U_gfQ7I9c-18" target="d6BkvXBy3w9U_gfQ7I9c-5">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="563" y="309" as="sourcePoint" />
             <mxPoint x="723" y="309" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="419" y="344" />
+              <mxPoint x="311" y="344" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -105,10 +105,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-27" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="381" y="165" width="30" height="18" as="geometry" />
+          <mxGeometry x="181" y="170" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-28" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="541" y="192" width="30" height="18" as="geometry" />
+          <mxGeometry x="571" y="188" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-29" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="1003" y="174" width="30" height="18" as="geometry" />
@@ -152,17 +152,17 @@
             <mxPoint x="1115" y="-106" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZjCUWYbZBNFAm0apmLuJ-42" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6BkvXBy3w9U_gfQ7I9c-15" target="d6BkvXBy3w9U_gfQ7I9c-5">
+        <mxCell id="ZjCUWYbZBNFAm0apmLuJ-42" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6BkvXBy3w9U_gfQ7I9c-15" target="d6BkvXBy3w9U_gfQ7I9c-5">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1251.5" y="182" as="sourcePoint" />
             <mxPoint x="1118" y="361" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1188" y="339" />
+              <mxPoint x="1286" y="339" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-43" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="177" width="30" height="18" as="geometry" />
+          <mxGeometry x="1339" y="174" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ZjCUWYbZBNFAm0apmLuJ-44" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="954" y="318" width="30" height="18" as="geometry" />
