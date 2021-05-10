@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T10:05:35.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.11" etag="Vt5b5Kt3clFw8IfdigDL" type="github"><diagram id="6aFeG4sOG7LSVYo24l37">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-10T10:17:00.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="r6yKXrMV1fnXUyeY_JVF" version="14.6.11" type="github">
+  <diagram id="6aFeG4sOG7LSVYo24l37" name="Page-1">
+    <mxGraphModel dx="729" dy="779" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#6666FF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k_KoyLPq_P6ISR_pOOIT-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="617" y="46" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="k_KoyLPq_P6ISR_pOOIT-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="623.5" y="52.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k_KoyLPq_P6ISR_pOOIT-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="226" y="40.5" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="k_KoyLPq_P6ISR_pOOIT-5" value="Открытие&lt;br&gt;системы" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0F08D0;strokeColor=#FFFF00;fontColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="182" y="98" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k_KoyLPq_P6ISR_pOOIT-6" value="Выбор&lt;br&gt;пользователя" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0F08D0;strokeColor=#FFFF00;fontColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="182" y="188" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k_KoyLPq_P6ISR_pOOIT-7" value="Выбор почты&lt;br&gt;и ввод пароля" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0F08D0;strokeColor=#FFFF00;fontColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="182" y="272" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k_KoyLPq_P6ISR_pOOIT-8" value="Проверка пароля" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0F08D0;strokeColor=#FFFF00;fontColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="338" y="272" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k_KoyLPq_P6ISR_pOOIT-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0F08D0;strokeColor=#FFFF00;fontColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="623.5" y="272" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k_KoyLPq_P6ISR_pOOIT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FFFF00;strokeColor=#FFFF00;" edge="1" parent="1" source="k_KoyLPq_P6ISR_pOOIT-10" target="k_KoyLPq_P6ISR_pOOIT-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="541" y="362" />
+              <mxPoint x="242" y="362" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_KoyLPq_P6ISR_pOOIT-10" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#FFFF00;strokeColor=#FFFF00;fillColor=#0F08D0;" vertex="1" parent="1">
+          <mxGeometry x="513" y="271" width="54.9" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="k_KoyLPq_P6ISR_pOOIT-12" value="Введен не правельный пароль!" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="306" y="341" width="184" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
