@@ -1,1 +1,157 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T05:29:16.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="17.4.3" etag="ZWq4IafdKGqgaKLrJKcX" type="github"><diagram id="bFDI2AFQPhmz0y6zr_Bc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-23T05:46:09.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="qyTpllAK2eFUVmwO3lt4" version="17.4.3" type="github">
+  <diagram id="bFDI2AFQPhmz0y6zr_Bc" name="Page-1">
+    <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-4" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-1" target="-1GUhLz12w5-S0mbTr5b-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-1" value="Визначення вхідних даних" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-7" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-2" target="-1GUhLz12w5-S0mbTr5b-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-2" value="Визначення сережніх, дисперсії та кореляції" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="354" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-9" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-6" target="-1GUhLz12w5-S0mbTr5b-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-14" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-6" target="-1GUhLz12w5-S0mbTr5b-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-16" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-6" target="-1GUhLz12w5-S0mbTr5b-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-17" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-6" target="-1GUhLz12w5-S0mbTr5b-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-18" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-6" target="-1GUhLz12w5-S0mbTr5b-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-6" value="Створення кореляційного поля" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-29" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-8" target="-1GUhLz12w5-S0mbTr5b-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-8" value="Експоненціальна регресія" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="354" y="381" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-31" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-10" target="-1GUhLz12w5-S0mbTr5b-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-10" value="Логарифміна регресія" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="510" y="381" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-11" target="-1GUhLz12w5-S0mbTr5b-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-11" value="Кубічна регресія" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="190" y="381" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-33" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-12" target="-1GUhLz12w5-S0mbTr5b-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-12" value="Степенева регресія" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="660" y="381" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-25" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-13" target="-1GUhLz12w5-S0mbTr5b-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-13" value="Квадратна регресія" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="20" y="381" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-20" value="Визначення сережніх, дисперсії та кореляції" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="354" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-21" value="Створення кореляційного поля" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-22" value="Визначення сережніх, дисперсії та кореляції" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="354" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-23" value="Створення кореляційного поля" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-24" value="Розрахунок коефіциету детермінації&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="20" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-26" value="Розрахунок коефіциету детермінації&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-47" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-28" target="-1GUhLz12w5-S0mbTr5b-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-28" value="Розрахунок коефіциету детермінації&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="354" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-48" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-30" target="-1GUhLz12w5-S0mbTr5b-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-30" value="Розрахунок коефіциету детермінації&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="510" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-49" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-32" target="-1GUhLz12w5-S0mbTr5b-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-32" value="Розрахунок коефіциету детермінації&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="660" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-45" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-34" target="-1GUhLz12w5-S0mbTr5b-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-34" value="Розрахунок коефіциету детермінації&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="20" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-46" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-35" target="-1GUhLz12w5-S0mbTr5b-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-35" value="Розрахунок коефіциету детермінації&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-51" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-40" target="-1GUhLz12w5-S0mbTr5b-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-40" value="Визначення рівня адикватності та силу зв&#39;язку за шкалою Чеддока" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="354" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-53" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-41" target="-1GUhLz12w5-S0mbTr5b-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-41" value="Визначення рівня адикватності та силу зв&#39;язку за шкалою Чеддока" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="510" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-54" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-42" target="-1GUhLz12w5-S0mbTr5b-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-42" value="Визначення рівня адикватності та силу зв&#39;язку за шкалою Чеддока" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="660" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-55" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-43" target="-1GUhLz12w5-S0mbTr5b-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-43" value="Визначення рівня адикватності та силу зв&#39;язку за шкалою Чеддока" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="20" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-52" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-44" target="-1GUhLz12w5-S0mbTr5b-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-44" value="Визначення рівня адикватності та силу зв&#39;язку за шкалою Чеддока" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="190" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-57" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFF821;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="-1GUhLz12w5-S0mbTr5b-50" target="-1GUhLz12w5-S0mbTr5b-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-50" value="Вибір кращої регресії" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="354" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1GUhLz12w5-S0mbTr5b-56" value="Прогнозування попиту на 2062 рік" style="whiteSpace=wrap;html=1;shadow=0;glass=0;perimeterSpacing=0;rounded=1;fillColor=#0F08D0;strokeColor=#000000;fontColor=#FFF821;" vertex="1" parent="1">
+          <mxGeometry x="354" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
